@@ -1,0 +1,3 @@
+*.pem binary
+*.der binary
+*.sh text eol=lf
